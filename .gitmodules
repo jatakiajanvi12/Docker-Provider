@@ -1,6 +1,3 @@
-[submodule "Documentation"]
-	path = Documentation
-	url = https://github.com/jatakiajanvi12/Docker-Provider-Documentation/Documentation/
 [submodule "Docker-Provider-Documentation"]
 	path = Docker-Provider-Documentation
 	url = https://github.com/jatakiajanvi12/Docker-Provider-Documentation
